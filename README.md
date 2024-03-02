@@ -2,9 +2,4 @@
 ## Dawit Hadush Hailu
 ### tthis is life
 
-dsfdshfkldshgjshkg
-sfsdhfsdfs
-sdfsdjfksd
-#fhgdshs
-
-https://hackmd.io/oQBup0PZSGCvVc0VQkOfhA?view
+[Study Note 3](https://hackmd.io/uTNcZLU1Qoi_9AR8eVwaug)
